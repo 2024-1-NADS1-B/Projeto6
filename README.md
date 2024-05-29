@@ -11,7 +11,7 @@
 ## Integrantes: <a href="https://github.com/AdeilsonNunes">Adeilson Nunes</a>, <a href="https://github.com/erikasntn">Erika Santana</a>, <a href="https://github.com/LuanMeirelesFranchini">Luan Meireles</a>, <a href="https://github.com/luiza1205">Luiza Domingues</a>
 
 ## Professores Orientadores: Adriano Felix Valente
-
+![](https://github.com/2024-1-NADS1-B/Projeto6/blob/main/imagens/b1a69324-107f-4ed0-8a6b-f78b9694f82b.jpg)
 ## Descrição
 <p> O projeto tem como objetivo realizar a limpeza de rios poluídos visando aprimorar a qualidade de vida dos organismos aquáticos. Para atingir esse objetivo foi criado um dispositivo capaz de coletar resíduos em rios com sensores de movimento e proximidade. Além disso, o dispositivo opera por meio de controle remoto.</p>
 
