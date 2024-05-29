@@ -24,8 +24,8 @@
 |-->imagens<br>
   &emsp;|-->projeto1.jpg<br>
   &emsp;|-->projeto2.jpg<br>
-  &emsp;|-->projeto3.jpg.jpg<br>
-  &emsp;|-->projeto4.jpg.jpg<br>
+  &emsp;|-->projeto3.jpg<br>
+  &emsp;|-->projeto4.jpg<br>
 |-->src<br>
   &emsp;|-->rio.ino<br>
   &emsp;|-->rio2.ino<br>
